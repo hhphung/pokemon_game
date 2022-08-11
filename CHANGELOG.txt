@@ -1,0 +1,8 @@
+#CHANGELOG
+Apr 11: started the project, read the instructions, adding more methods and variables into class. 
+Apr 12: Successfully implemented engaging battle for trainers or wild pokemon.
+Apr 13: implement showing and pick pokemon for the PC.
+Apr 14: implement fight function, where players can pick the move and enter a fight with a trainer or pokemon.
+Apr 15: implement bag function, the players can revive and heal their pokemon.
+Apr 16:  fix bugs in picking pokemons and picking moves.
+Apr 17: Review one last time.  
